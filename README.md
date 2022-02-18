@@ -10,6 +10,7 @@ This is transparent description of the Sage Maker implementation, which is an AW
  3. Go to  [This Page](https://us-east-2.console.aws.amazon.com/console/home?region=us-east-2). Then find 'FindServices' option and choose 'Amazon SageMaker'.
  ![](./images/1..png)
  4. Then, on the left side, select the 'Notebook instances' option and press it.
+
  ![](./images/2..png)
  5. Choose 'Create notebook instance' option and enter the chosen one by you name in 'Notebook instance name'. In this example we choose the option ml.t2.medium z 'Notebook instance type'.
  ![](./images/3..png)
