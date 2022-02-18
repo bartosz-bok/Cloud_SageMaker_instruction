@@ -12,6 +12,7 @@ This is transparent description of the Sage Maker implementation, which is an AW
  4. Then, on the left side, select the 'Notebook instances' option and press it.
 
  ![](./images/2..png)
+
  5. Choose 'Create notebook instance' option and enter the chosen one by you name in 'Notebook instance name'. In this example we choose the option ml.t2.medium z 'Notebook instance type'.
  ![](./images/3..png)
  6. Select your user's role in the IAM role window. Choose 'Create a new role'. In the window that pops up, select the option 'Any S3 Bucket' and then 'Create role'.
