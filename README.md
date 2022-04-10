@@ -1,7 +1,7 @@
 
 # Cloud SageMaker instruction
 
-This is transparent description of the Sage Maker implementation, which is an AWS cloud computing option
+This is transparent description of the Sage Maker implementation, which is an AWS cloud computing option.
 
 ## How to use it
 
